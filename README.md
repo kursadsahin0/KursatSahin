@@ -4,7 +4,7 @@ I'm looking for a Front-end position and Test Automation.
 
 
 
-✅ I’m currently learning JavaScript, Java, Html, CSS,Bootstrap.
+✅ I’m currently learning JavaScript, Java, Html, CSS,Bootstrap and Flutter.
 
 
 🎓 🌿 I graduated from Bartın University Management information system
