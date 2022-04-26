@@ -1,5 +1,18 @@
 # Kursat Sahin
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Flutter+Developer)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+
+
+
+
+
 I'm looking for a Front-end position and Test Automation and Mobile Development.
 
 I'm beginner developer for Java,JavaScript,Microsoft SQL, C#.
