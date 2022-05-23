@@ -13,7 +13,7 @@
 
 
 
-I'm looking for a Front-end position or Test Automation or Mobile Development.
+I'm looking for a Java Developer position.
 
 ✅ I'm junior developer for Java,JavaScript,Microsoft SQL, C#.
 
