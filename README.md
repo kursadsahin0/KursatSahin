@@ -1,6 +1,6 @@
 # Kürşat Şahin
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Flutter+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Java+Developer)](https://git.io/typing-svg)
 
 
 
