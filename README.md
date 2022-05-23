@@ -1,6 +1,6 @@
 # Kürşat Şahin
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Front-end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Java+Developer)](https://git.io/typing-svg)
 
 
 
@@ -13,9 +13,9 @@
 
 
 
-I'm looking for a Front-end position.
+I'm looking for a Java developer position.
 
-✅ I’m interested in Web development since second year of the university. I started to develop Project with Javascript and React. 
+✅ I’m interested in Java programming language since second year of the university. I started to develop Project with Java. 
 
 💭 I develope myself in terms of research, self-motivation and acquiring different abilities. 
 
