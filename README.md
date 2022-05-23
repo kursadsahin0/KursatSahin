@@ -15,14 +15,18 @@
 
 I'm looking for a Java Developer position.
 
-✅ I'm junior developer for Java,JavaScript,Microsoft SQL, C#.
+✅ I’m interested in Java programming language since second year of the university. I started to develop Project with Java. 
 
-✅ I'm mid-level developer  for HTML, CSS, Bootstrap.
+💭 I develope myself in terms of research, self-motivation and acquiring different abilities. 
 
- I’m currently learning  Flutter and dart.
+✅ I’m currently learning  Flutter and dart.
+ 
+✅ I’m a team player, willing to be trained for growth.
+
+✅ I’m believe that everyday is a new start.
 
 🎓 🌿 I graduated from Bartın University Management information system
 
-💭 I developed myself in terms of research, self-motivation, entrepreneurship and acquiring different abilities.
+
 
 
