@@ -13,7 +13,7 @@
 
 
 
-I'm looking for a Front end position.
+I'm looking for  Front end position.
 
 ✅ I’m interested in Web development since second year of the university. I started to develop Project with Javascript and React. 
 
