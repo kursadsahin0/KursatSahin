@@ -1,6 +1,6 @@
 # Kürşat Şahin
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Front+end+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
 
 
 
