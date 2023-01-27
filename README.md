@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I graduated from Bartın University Management information system.<br><br> I'm looking for Front end developer position.<br><br>✅ I’m interested in Web development since second year of the university. I started to develop Project with Javascript and React.<br><br>💭 I develope myself in terms of research, self-motivation and acquiring different abilities.<br><br>✅ I’m a team player, willing to be trained for growth.<br><br>✅ I’m believe that everyday is a new start.<br><br>
+🎓 I graduated from Bartın University Management information system.<br>><br>✅ I’m interested in Web development since second year of the university. I started to develop Project with Javascript and React.<br><br>💭 I develope myself in terms of research, self-motivation and acquiring different abilities.<br><br>✅ I’m a team player, willing to be trained for growth.<br><br>✅ I’m believe that everyday is a new start.<br><br>
 
 
 ## 🌐 Socials:
